@@ -1,0 +1,11 @@
+{
+  "refund": "Refund will be processed within 5-7 business days.",
+  "delivery": "Delivery takes 3-5 days.",
+  "payment": "We accept UPI, cards, and net banking.",
+  "order status": "Please provide your order ID.",
+  "cancel order": "You can cancel your order within 24 hours.",
+  "return policy": "Returns are accepted within 7 days.",
+  "late delivery": "Your order may be delayed due to high demand.",
+  "wrong item": "We will replace the incorrect item.",
+  "tracking": "Use your order ID to track your order."
+}
